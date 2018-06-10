@@ -10,4 +10,9 @@ public:
 	: r{ val }
 	{
 	}
+	
+	void SetR(double val)
+	{
+		r = val;	
+	}
 };
