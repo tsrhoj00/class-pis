@@ -10,4 +10,9 @@ public:
 	: r{ val }
 	{
 	}
+
+	double GetR(void)
+	{
+		return r;
+	}
 };
