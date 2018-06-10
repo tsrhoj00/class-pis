@@ -15,4 +15,10 @@ public:
 	{
 		return r;
 	}
+	
+	void SetR(double val)
+	{
+		r = val;	
+	}
 };
+
